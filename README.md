@@ -92,8 +92,8 @@ I am a Passionate Developer and Coder Strives on learning new technologies
 <br />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChekuriSanthosh&show_icons=true&locale=en&layout=compact" alt="ChekuriSanthosh" /></p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChekuriSanthosh&" alt="ChekuriSanthosh" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChekuriSanthosh&" alt="ChekuriSanthosh" /></p>
