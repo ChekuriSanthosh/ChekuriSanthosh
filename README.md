@@ -4,7 +4,7 @@
 I am a Passionate Developer and Coder Strives on learning new technologies  
   
 
-- 👨‍💻 All of my projects are available at https://ChekuriSanthosh.github.io/Portfolio/ or at https://github.com/ChekuriSanthosh/  
+- 👨‍💻 All of my projects are available at https://github.com/ChekuriSanthosh/  
   
 
 - 📫 How to reach me santhoshchekuri2002@gmail.com  
